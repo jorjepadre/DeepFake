@@ -1,4 +1,5 @@
-# DeepFake
+# Deep Fake Detection Model
+
 ### Background
 - Techniques for convincing manipulations of digital face images
 exist for decades via the use of visual effects
