@@ -1,0 +1,10 @@
+learning_rate	optimizer	loss_function	Validation Accuracy	Accuracy	Recall	Precision	AUC
+0.01	Adam	BCELoss	0.71	0.69	0.69	0.65	0.69
+0.001	Adam	BCELoss	0.69	0.78	0.69	0.75	0.77
+0.0005	Adam	BCELoss	0.88	0.78	0.72	0.65	0.77
+0.0001	Adam	BCELoss	0.95	0.87	0.91	0.75	0.77
+0.00005	Adam	BCELoss	0.95.4	0.88	0.88	0.78	0.88
+0.00001	Adam	BCELoss	0.88.3	0.84	0.84	0.72	0.84
+0.000005	Adam	BCELoss	0.86.4	0.79	0.85	0.64	0.8
+0.0001	SGD	Cross-Entropy	0.66	0.36	0.87	0.32	0.48
+0.0001	SGD	BCELoss	0.67	0.8	0.74	0.71	0.81
